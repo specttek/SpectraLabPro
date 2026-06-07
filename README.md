@@ -670,7 +670,8 @@ scikit-learn
 
 ## Acknowledgment
 
-This project was created from the PhD work of Leiden University student Fatemeh Fazel Hesar, with her dedicated effort.
+This project was created from the PhD work of Leiden University student Fatemeh Fazel Hesar, with her dedicated effort. 
+https://www.mdpi.com/2218-1997/12/4/93
 
 
 ---
