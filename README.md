@@ -668,7 +668,7 @@ scikit-learn
 ```
 ---
 
-## Acknoledgment
+## Acknowledgment
 
 This project was created from the PhD work of Leiden University student Fatemeh Fazel Hesar, with her dedicated effort.
 
