@@ -666,6 +666,12 @@ pypylon
 astropy
 scikit-learn
 ```
+---
+
+## Acknoledgment
+
+This project was created from the PhD work of Leiden University student Fatemeh Fazel Hesar, with her dedicated effort.
+
 
 ---
 
