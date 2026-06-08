@@ -409,6 +409,7 @@ roiY
 numOfFrame
 metadata
 ```
+<img width="1924" height="1081" alt="Moon_test" src="https://github.com/user-attachments/assets/7cd62d49-fc73-4f86-a0a4-8eeb95cbd466" />
 
 ### FITS
 
