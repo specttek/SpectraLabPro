@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pypylon
+astropy
+scikit-learn
+pillow
