@@ -3,6 +3,7 @@
 Python GUI for live push-broom hyperspectral imaging, developed for **SpectTek Co.**
 
 The software supports Basler area-scan camera acquisition, SPECIM-style hyperspectral line-camera integration, live RGB preview, detector chip visualization, spectral extraction, reference overlay, machine-learning classification, and data export.
+<a href="https://doi.org/10.5281/zenodo.20783863"><img src="https://zenodo.org/badge/1262016817.svg" alt="DOI"></a>
 
 ---
 
