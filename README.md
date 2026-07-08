@@ -534,7 +534,14 @@ pillow
 * The current SPECIM section is a software adapter template and must be connected to the real SPECIM SDK.
 
 ---
-
+## Versions
+*SpectraLab v.1.0.0
+*SpectraLab v.1.0.1
+*SpectraLab v.1.0.2
+*SpectraLab v.1.0.3
+*SpectraLab v.1.0.4
+*SpectraLab v.1.0.5
+*SpectraLab v.1.1.0 (Add new hyperspectral imager)
 ## Developer
 
 ```text
